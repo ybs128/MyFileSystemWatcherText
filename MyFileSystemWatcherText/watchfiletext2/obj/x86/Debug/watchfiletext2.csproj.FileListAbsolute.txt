@@ -1,0 +1,10 @@
+c:\users\simmon\documents\visual studio 2010\Projects\watchfiletext2\watchfiletext2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\simmon\documents\visual studio 2010\Projects\watchfiletext2\watchfiletext2\bin\Debug\watchfiletext2.exe
+c:\users\simmon\documents\visual studio 2010\Projects\watchfiletext2\watchfiletext2\bin\Debug\watchfiletext2.pdb
+c:\users\simmon\documents\visual studio 2010\Projects\watchfiletext2\watchfiletext2\obj\x86\Debug\watchfiletext2.exe
+c:\users\simmon\documents\visual studio 2010\Projects\watchfiletext2\watchfiletext2\obj\x86\Debug\watchfiletext2.pdb
+C:\Users\simmon\Desktop\watchfiletext2\watchfiletext2\obj\x86\Debug\watchfiletext2.exe
+C:\Users\simmon\Desktop\watchfiletext2\watchfiletext2\obj\x86\Debug\watchfiletext2.pdb
+C:\Users\simmon\Desktop\watchfiletext2\watchfiletext2\bin\Debug\watchfiletext2.exe
+C:\Users\simmon\Desktop\watchfiletext2\watchfiletext2\bin\Debug\watchfiletext2.pdb
+C:\Users\simmon\Desktop\watchfiletext2\watchfiletext2\obj\x86\Debug\ResolveAssemblyReference.cache
